@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, this is Pratik, Front-End developer
+# **Hey, this is Pratik, Front-End developer**
 
 
 ## 🌐 Socials:
